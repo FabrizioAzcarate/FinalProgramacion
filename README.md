@@ -1,7 +1,7 @@
 # Trabajo Final de Programacion
 ### Por Fabrizio Azcarate
 
-API REST desarrollada con **FastAPI** para gestionar preguntas, sesiones de quiz y respuestas, con validaciones automáticas y documentación interactiva por medio de Swagger.
+API REST desarrollada con FastAPI para gestionar preguntas, sesiones de quiz y respuestas, contando con validaciones automáticas y documentación interactiva por medio de Swagger.
 
 ## Medios Utilizados
 * Python
@@ -25,7 +25,7 @@ API REST desarrollada con **FastAPI** para gestionar preguntas, sesiones de quiz
 "venv\Scripts\activate"
 
 # Instalar las Dependencias:
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 ### Instalación (Linux)
 # Clonar el repositorio
